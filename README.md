@@ -34,8 +34,8 @@ To get started, you'll need to install the following dependencies. Make sure you
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Da-MaRo/HSPA4_NLP.git
+    cd HSPA4_NLP
     ```
 
 2. Install the required Python packages:
@@ -52,6 +52,9 @@ To get started, you'll need to install the following dependencies. Make sure you
     transformers==4.21.1
     medspacy==0.2.1
     requests==2.26.0
+    pandas==1.3.3
+    regex==2021.8.3
+
     ```
 
 ## Usage
